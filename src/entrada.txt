@@ -1,0 +1,21 @@
+72849103287;Ana Paula Costa;Gerente de Vendas;8500.00;Pedro Neto;2010-01-15
+56712398450;Carla Mendes Oliveira;Estagiária;1500.00
+23456789012;Fernanda Santos Alves;Coordenadora de Marketing;7800.00
+98765432109;Marcos Vinicius Pereira;Analista de Sistemas;6200.00;Sofia Lima;2018-03-20
+34567890123;Juliana Ribeiro Martins;Diretora Financeira;12500.00
+10987654321;Ricardo Almeida Souza;Desenvolvedor Pleno;5500.00
+56712398450;Carla Mendes Oliveira;Estagiária;1500.00
+65432109876;Beatriz Lima Ferreira;Analista de RH;4800.00;Lucas Costa;2021-09-01
+43210987654;Leandro Gomes Barbosa;Técnico de Suporte;3200.00
+78901234567;Camila Oliveira Santos;Gerente de Projetos;9300.00
+98765432109;Marcos Vinicius Pereira;Analista de Sistemas;6200.00;Sofia Lima;2018-03-20
+89012345678;Gustavo Henrique Costa;Assistente Administrativo;2800.00
+12345098765;Patrícia Fernandes Lima;Especialista em SEO;6800.00;Mariana Silva;2019-11-05
+72849103287;Ana Paula Costa;Gerente de Vendas;8500.00;Pedro Neto;2010-01-15
+21098765432;Vanessa Gonçalves Dias;Designer Gráfico;4500.00
+32109876543;Rodrigo Azevedo Pinto;Coordenador de Logística;7100.00
+23456789012;Fernanda Santos Alves;Coordenadora de Marketing;7800.00
+54321098765;Fábio Nogueira Barros;Engenheiro de Software;8900.00;Juliana Ribeiro;2015-07-22
+67890123456;Larissa Moreira Neves;Recepcionista;2100.00
+10987654321;Ricardo Almeida Souza;Desenvolvedor Pleno;5500.00
+45678901234;Bruno Carvalho Rocha;Analista de Marketing Digital;5100.00

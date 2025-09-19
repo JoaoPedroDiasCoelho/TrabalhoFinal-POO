@@ -1,0 +1,5 @@
+56712398450;Carla Mendes Oliveira;Estagiária;1500.00
+98765432109;Marcos Vinicius Pereira;Analista de Sistemas;6200.00;Sofia Lima;2018-03-20
+72849103287;Ana Paula Costa;Gerente de Vendas;8500.00;Pedro Neto;2010-01-15
+23456789012;Fernanda Santos Alves;Coordenadora de Marketing;7800.00
+10987654321;Ricardo Almeida Souza;Desenvolvedor Pleno;5500.00
